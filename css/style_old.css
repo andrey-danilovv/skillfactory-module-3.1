@@ -24,7 +24,7 @@
 
 .page {
 	font-family: 'OpenSans-Regular', Halvetica, Arial;
-	margin: 0;
+	margin: 5px;
 }
 header {
 	display: flex;
